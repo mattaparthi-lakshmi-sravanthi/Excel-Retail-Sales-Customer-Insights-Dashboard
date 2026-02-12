@@ -1,15 +1,3 @@
-Perfect Sravanthi 👌 Since this is for GitHub and you already placed the image inside an `images` folder, below is a **clean, professional, and impressive README.md** you can directly copy-paste.
-
-Make sure your image name matches this path:
-
-```
-images/dashboard.png
-```
-
-(If your file name is different, just change it in the README.)
-
----
-
 # 📊 Excel Retail Sales & Customer Insights Dashboard
 
 ## 🧾 Project Overview
@@ -22,7 +10,7 @@ The dashboard provides deep insights into **sales performance, customer behavior
 
 ## 🖼️ Dashboard Preview
 
-![Retail Dashboard](images/Dashboard viva calif.jpeg)
+![Retail Dashboard](images/Dashboard viva calif.jpg)
 
 ---
 
