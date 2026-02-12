@@ -10,7 +10,7 @@ The dashboard provides deep insights into **sales performance, customer behavior
 
 ## 🖼️ Dashboard Preview
 
-![Retail Dashboard](images/Dashboard viva calif.jpg)
+![Retail Dashboard](images/Dashboard-viva-calif.jpg)
 
 ---
 
